@@ -2,16 +2,6 @@
 
 This project involves building a simple linear regression model to predict sales based on advertising budgets across different media channels (TV, Radio, Newspaper). The goal is to explore the relationship between the advertising budget and sales, and to build a predictive model using TV advertising data.
 
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Installation](#installation)
-3. [Data Inspection](#data-inspection)
-4. [Data Cleaning](#data-cleaning)
-5. [Exploratory Data Analysis](#exploratory-data-analysis)
-6. [Model Building](#model-building)
-7. [Saving and Testing the Model](#saving-and-testing-the-model)
-
 ## Project Overview
 
 This project follows these steps:
